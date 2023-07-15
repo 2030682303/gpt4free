@@ -12,7 +12,7 @@ Have you ever come across some amazing projects that you couldn't use **just bec
 By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)](https://github.com/xtekky/gpt4free/stargazers) and all the support!!
 
 ## Announcement
-Dear  Gpt4free Community,
+Dear  Gpt4free Co3232mmunity,
 
 I want to thank you for your interest in and support of this project, which I only intended to be for entertainment and educational purposes; I had no idea it would end up being so popular.
 
